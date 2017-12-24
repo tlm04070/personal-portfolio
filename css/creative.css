@@ -16,21 +16,21 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #2effdc;
+  border-color: #59b5c1;
 }
 
 hr.light {
-  border-color: #fff;
+  border-color: #f5f1e3;
 }
 
 a {
-  color: #2effdc;
+  color: #59b5c1;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
 a:hover {
-  color: #2effdc;
+  color: #59b5c1;
 }
 
 h1,
@@ -43,11 +43,11 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #2effdc !important;
+  background-color: #59b5c1 !important;
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #494949 !important;
 }
 
 .text-faded {
@@ -63,34 +63,34 @@ section {
 }
 
 ::-moz-selection {
-  color: #fff;
-  background: #212529;
+  color: #f5f1e3;
+  background: #494949;
   text-shadow: none;
 }
 
 ::selection {
-  color: #fff;
-  background: #212529;
+  color: #f5f1e3;
+  background: #494949;
   text-shadow: none;
 }
 
 img::selection {
-  color: #fff;
+  color: #f5f1e3;
   background: transparent;
 }
 
 img::-moz-selection {
-  color: #fff;
+  color: #f5f1e3;
   background: transparent;
 }
 
 body {
-  -webkit-tap-highlight-color: #212529;
+  -webkit-tap-highlight-color: #494949;
 }
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-  background-color: #fff;
+  background-color: #f5f1e3;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -99,27 +99,27 @@ body {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-  color: #2effdc;
+  color: #59b5c1;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
 }
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
-  color: #2effdc;
+  color: #59b5c1;
 }
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
   font-size: 0.9rem;
   font-weight: 700;
   text-transform: uppercase;
-  color: #212529;
+  color: #494949;
 }
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: #2effdc;
+  color: #59b5c1;
 }
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: #2effdc !important;
+  color: #59b5c1 !important;
   background-color: transparent;
 }
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover,
@@ -136,7 +136,7 @@ body {
   }
   #mainNav .navbar-brand:focus,
   #mainNav .navbar-brand:hover {
-    color: #fff;
+    color: #f5f1e3;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
     padding: 0.5rem 1rem;
@@ -147,26 +147,26 @@ body {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #fff;
+    color: #f5f1e3;
   }
   #mainNav.navbar-shrink {
     border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-    background-color: #fff;
+    background-color: #f5f1e3;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #2effdc;
+    color: #59b5c1;
   }
   #mainNav.navbar-shrink .navbar-brand:focus,
   #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #2effdc;
+    color: #59b5c1;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
-    color: #212529;
+    color: #494949;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #2effdc;
+    color: #59b5c1;
   }
 }
 
@@ -230,8 +230,8 @@ header.masthead p {
   height: 100%;
   text-align: center;
   opacity: 0;
-  color: #fff;
-  background: rgba(240, 95, 64, 0.9);
+  color: #f5f1e3;
+  background: rgba(89, 181, 193, 0.9);
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -290,7 +290,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: #2effdc !important;
+  color: #59b5c1 !important;
 }
 
 .btn {
@@ -306,13 +306,13 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #2effdc;
-  border-color: #2effdc;
+  background-color: #59b5c1;
+  border-color: #59b5c1;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-  color: #fff;
+  color: #f5f1e3;
   background-color: #ee4b28 !important;
 }
 .btn-primary:active,
