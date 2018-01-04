@@ -235,6 +235,9 @@ header.masthead p {
   padding: 0 15px;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
 }
+#eventhub {
+  margin-bottom: 0;
+}
 .portfolio-box
   .portfolio-box-caption
   .portfolio-box-caption-content
