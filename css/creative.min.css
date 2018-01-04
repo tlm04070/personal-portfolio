@@ -293,9 +293,9 @@ header.masthead p {
 .btn-primary:focus,
 .btn-primary:hover {
   color: #f5f1e3;
-  background-color: #ee4b28 !important;
+  background-color: #494949 !important;
 }
 .btn-primary:active,
 .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(89, 181, 193, 0.5) !important;
 }
